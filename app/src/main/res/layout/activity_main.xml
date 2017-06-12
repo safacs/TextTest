@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="wasu.com.texttest.MainActivity">
+
+    <!--<wasu.com.texttest.BabushkaText-->
+    <!--android:id="@+id/babushka_text"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Hello World!" />-->
+
+
+    <!--<Button-->
+    <!--android:id="@+id/butt1on"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="更新" />-->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1:  苹果苹方字体是苹果为中国用户打造的一款富有中国元素的中文字体，
+ 这套字体不仅字型优美，而且也能提升在手机、电脑屏幕上的清晰度以及易读性。" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="2:  Sounds familiar, right? Well, there are several ways to reduce the frequency of headaches, and those are: eating healthy through the day, making sure your body is well hydrated, getting some exercise to eliminate the negative energy, and helping yourself with a short massage on your head." />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="3:  Sounds familiar, right? Well, there are several ways to reduce the frequency of headaches, and those are: eating healthy through the day, making sure your body is well hydrated, getting some exercise to eliminate the negative energy, and helping yourself with a short massage on your head." />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="4:  苹果苹方字体是苹果为中国用户打造的一款富有中国元素的中文字体，
+ 这套字体不仅字型优美，而且也能提升在手机、电脑屏幕上的清晰度以及易读性。" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="5:  苹果苹方字体是苹果为中国用户打造的一款富有中国元素的中文字体，
+ 这套字体不仅字型优美，而且也能提升在手机、电脑屏幕上的清晰度以及易读性。" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="5:  Sounds familiar, right? Well, there are several ways to reduce the frequency of headaches, and those are: eating healthy through the day, making sure your body is well hydrated, getting some exercise to eliminate the negative energy, and helping yourself with a short massage on your head." />
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="5:  苹果苹方字体是苹果为中国用户打造的一款富有中国元素的中文字体，
+ 这套字体不仅字型优美，而且也能提升在手机、电脑屏幕上的清晰度以及易读性。" />
+
+</LinearLayout>
