@@ -22,20 +22,6 @@ public class MainActivity extends AppCompatActivity {
         Typeface typeface4 = Typeface.createFromAsset(getAssets(),"fonts/Light.ttf");
         Typeface typeface5 = Typeface.createFromAsset(getAssets(),"fonts/Medium.ttf");
 
-        TextView textView1= (TextView)findViewById(R.id.textView1);
-        TextView textView2= (TextView)findViewById(R.id.textView2);
-        TextView textView3= (TextView)findViewById(R.id.textView3);
-        TextView textView4= (TextView)findViewById(R.id.textView4);
-        TextView textView5= (TextView)findViewById(R.id.textView5);
-        textView1.setTypeface(typeface1);
-        textView2.setTypeface(typeface2);
-        textView3.setTypeface(typeface3);
-        textView4.setTypeface(typeface4);
-        textView5.setTypeface(typeface5);
-
-
-
-
 //        BabushkaText babushka = (BabushkaText)findViewById(R.id.babushka_text);
 //        // Add the first piece "Central Park"
 //        babushka.addPiece(new BabushkaText.Piece.Builder("Central Park, NAAAAAAAAAAY")
@@ -56,6 +42,22 @@ public class MainActivity extends AppCompatActivity {
 //
 //        // Display the final, styled text
 //        babushka.display();
+
+
+        TextView textView1= (TextView)findViewById(R.id.textView1);
+        TextView textView2= (TextView)findViewById(R.id.textView2);
+        TextView textView3= (TextView)findViewById(R.id.textView3);
+        TextView textView4= (TextView)findViewById(R.id.textView4);
+        TextView textView5= (TextView)findViewById(R.id.textView5);
+        textView1.setTypeface(typeface1);
+        textView2.setTypeface(typeface2);
+        textView3.setTypeface(typeface3);
+        textView4.setTypeface(typeface4);
+        textView5.setTypeface(typeface5);
+
+
+
+
 
 
     }
